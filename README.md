@@ -9,3 +9,4 @@ swift demo, just for learning.
 
 ### tips
 * [Swift协议Codable底层探索及应用](https://juejin.cn/post/6938388060367224869)
+* [Swift -字面量转换](https://blog.csdn.net/liqunzhang/article/details/114819629)
