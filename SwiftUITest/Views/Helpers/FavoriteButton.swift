@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct FavoriteButton: View {
+	//属性装饰器，swift是值类型，通过Binding修饰之后变成引用类型
     @Binding var isSet: Bool
     
     var body: some View {

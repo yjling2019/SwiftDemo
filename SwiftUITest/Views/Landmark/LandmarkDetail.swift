@@ -66,6 +66,7 @@ struct LandmarkDetail_Previews: PreviewProvider {
 	static let modelData = ModelData()
 
 	static var previews: some View {
+		//environmentObject 将公共数据注入环境，方便下游读取，避免层层传递
 		LandmarkDetail(landmark: modelData.landmarks[0])
 			.environmentObject(modelData)
 	}
