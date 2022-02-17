@@ -13,5 +13,11 @@ swift demo, just for learning.
 * [[SwiftUI 100 天] 用 @EnvironmentObject 从环境中读取值](https://zhuanlan.zhihu.com/p/146608338)
 * [闲话 Swift 协程](https://www.bennyhuo.com/2021/10/11/swift-coroutines-01-intro/)
 
+## Mix & Match
+* [Swift 和 Objective-C 混编在有赞移动的实践](https://www.infoq.cn/article/havxxniyngjqg5ss0qtd)
+* [从预编译的角度理解Swift与Objective-C及混编机制](https://tech.meituan.com/2021/02/25/swift-objective-c.html)
+
 ## Questions
 * [swiftui how to see preview?](https://developer.apple.com/forums/thread/665338)
+* [A weak property in Objective-C class implementing a Swift protocol](https://stackoverflow.com/questions/49647691/a-weak-property-in-objective-c-class-implementing-a-swift-protocol)
+
