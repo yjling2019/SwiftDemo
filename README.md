@@ -16,6 +16,7 @@ swift demo, just for learning.
 ## Mix & Match
 * [Swift 和 Objective-C 混编在有赞移动的实践](https://www.infoq.cn/article/havxxniyngjqg5ss0qtd)
 * [从预编译的角度理解Swift与Objective-C及混编机制](https://tech.meituan.com/2021/02/25/swift-objective-c.html)
+* [Swift 宏定义与代码标记](https://cloud.tencent.com/developer/article/1198696)
 
 ## Questions
 * [swiftui how to see preview?](https://developer.apple.com/forums/thread/665338)
