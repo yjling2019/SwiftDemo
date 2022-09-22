@@ -22,4 +22,4 @@ swift demo, just for learning.
 ## Questions
 * [swiftui how to see preview?](https://developer.apple.com/forums/thread/665338)
 * [A weak property in Objective-C class implementing a Swift protocol](https://stackoverflow.com/questions/49647691/a-weak-property-in-objective-c-class-implementing-a-swift-protocol)
-
+* Cannot override with a stored property [reason](https://github.com/apple/swift/issues/49528) [seemore](https://github.com/apple/swift-evolution/blob/master/process.md) [solution](https://cloud.tencent.com/developer/ask/sof/91150)
