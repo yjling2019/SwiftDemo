@@ -10,7 +10,6 @@ swift demo, just for learning.
 ## Tips
 * [Swift协议Codable底层探索及应用](https://juejin.cn/post/6938388060367224869)
 * [Swift -字面量转换](https://blog.csdn.net/liqunzhang/article/details/114819629)
-* [[SwiftUI 100 天] 用 @EnvironmentObject 从环境中读取值](https://zhuanlan.zhihu.com/p/146608338)
 * [闲话 Swift 协程](https://www.bennyhuo.com/2021/10/11/swift-coroutines-01-intro/)
 * [swift中解决循环引用的三种方法](https://www.jianshu.com/p/5640a3144cdf)
 * [KeyPath在Swift中的妙用](https://juejin.cn/post/6844903717511102472)
@@ -23,6 +22,7 @@ swift demo, just for learning.
 
 ## swift ui
 * [SwiftUI数据流之State&Binding](https://zhuanlan.zhihu.com/p/348456571)
+* [[SwiftUI 100 天] 用 @EnvironmentObject 从环境中读取值](https://zhuanlan.zhihu.com/p/146608338)
 
 ## Questions
 * [swiftui how to see preview?](https://developer.apple.com/forums/thread/665338)
