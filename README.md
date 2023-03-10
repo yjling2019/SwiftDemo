@@ -3,7 +3,6 @@ swift demo, just for learning.
 
 ## Documents
 * [Swift(Apple Document)](https://developer.apple.com/documentation/swift)
-* [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui/)
 * [Swift 教程](https://swiftgg.gitbook.io/swift/swift-jiao-cheng)
 * [SwiftGG](https://swift.gg/)
 
@@ -21,6 +20,7 @@ swift demo, just for learning.
 * [swift使用NSClassFromString](https://www.jianshu.com/p/5e91d49929a9)
 
 ## swift ui
+* [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui/)
 * [SwiftUI数据流之State&Binding](https://zhuanlan.zhihu.com/p/348456571)
 * [[SwiftUI 100 天] 用 @EnvironmentObject 从环境中读取值](https://zhuanlan.zhihu.com/p/146608338)
 
