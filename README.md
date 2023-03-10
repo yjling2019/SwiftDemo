@@ -23,6 +23,7 @@ swift demo, just for learning.
 * [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui/)
 * [SwiftUI数据流之State&Binding](https://zhuanlan.zhihu.com/p/348456571)
 * [[SwiftUI 100 天] 用 @EnvironmentObject 从环境中读取值](https://zhuanlan.zhihu.com/p/146608338)
+* [避免在SwiftUI视图中重新计算数值的方法](https://juejin.cn/post/7129447080749170696)
 
 ## Questions
 * [swiftui how to see preview?](https://developer.apple.com/forums/thread/665338)
