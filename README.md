@@ -21,6 +21,9 @@ swift demo, just for learning.
 * [Swift 宏定义与代码标记](https://cloud.tencent.com/developer/article/1198696)
 * [swift使用NSClassFromString](https://www.jianshu.com/p/5e91d49929a9)
 
+## swift ui
+* [SwiftUI数据流之State&Binding](https://zhuanlan.zhihu.com/p/348456571)
+
 ## Questions
 * [swiftui how to see preview?](https://developer.apple.com/forums/thread/665338)
 * [A weak property in Objective-C class implementing a Swift protocol](https://stackoverflow.com/questions/49647691/a-weak-property-in-objective-c-class-implementing-a-swift-protocol)
